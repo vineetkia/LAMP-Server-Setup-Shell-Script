@@ -1,4 +1,4 @@
-# How To Install Linux, Apache, MySQL, PHP (LAMP) stack [VPS]
+# How To Install Linux, Apache, MySQL, PHP (LAMP)-Ubuntu
 
 <h1 align="center"> <br><a href="#"><img src="https://www.wiselyguide.com/wp-content/uploads/2016/03/lamp.jpg" alt="LAMP"></a></h1>
 
