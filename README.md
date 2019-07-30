@@ -1,5 +1,7 @@
 # How To Install Linux, Apache, MySQL, PHP (LAMP) stack on Ubuntu
 
+<h1 align="center"> <br><a href="#"><img src="https://www.wiselyguide.com/wp-content/uploads/2016/03/lamp.jpg" alt="LAMP"></a></h1>
+
 #### Use the following command to make make the file executable:
 
 > chmod +x LAMP.sh
