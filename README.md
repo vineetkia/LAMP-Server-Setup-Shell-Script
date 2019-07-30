@@ -71,6 +71,6 @@ Terminal will then display the list of possible modules. The beginning looks lik
 
 #### Once you decide to install the module, type:
 
-> sudo apt-get install name of the module
+> sudo apt-get install (name of the module)
 
 ## Congratulations! You now have LAMP stack on your VM.
